@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mrVoIP</string>
+    <string name="service_description"> System\'s Service, don\'t STOP </string>
+</resources>
