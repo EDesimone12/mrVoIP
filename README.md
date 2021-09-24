@@ -1,7 +1,6 @@
 # mrVoIP
-<img src="images.svg" alt="drawing" width="1000" height="500"/>
-
-
+| <img src="./imgREADME/labMusimatica.png" alt="drawing" width="150" height="100"/> <img src="./imgREADME/dinfUnisa.png" alt="drawing" width="500" height="150"/> <img src="./imgREADME/logo_unisa.png" alt="drawing" width="150" height="150"/> |
+|:--:|
 ## **Author: Eugenio De Simone**
 
 App developed for research purposes, to analyze the security of the VoIP protocol on Android 10.
