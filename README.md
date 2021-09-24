@@ -1,5 +1,5 @@
 # mrVoIP
-<img src="images.svg" alt="drawing" width="150" height="100"/>
+<img src="images.svg" alt="drawing" width="1000" height="500"/>
 
 
 ## **Author: Eugenio De Simone**
